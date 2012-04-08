@@ -3,8 +3,13 @@ This is under:
 http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 
-======Installation======
+=======Compiling========
 Requires jre-1.6.0
+run build.xml
+
+=========Usage==========
+Execute SC2Bank_Tools.jar
+
 
 What it does:
   Currently Backup your SC2Bank files.
