@@ -1,0 +1,12 @@
+======Installation======
+Requires jre-1.6.0
+
+What it does:
+  Currently Backup your SC2Bank files.
+
+Author Notes:
+  My first attempt at toying with MVC. If I screwed up, let me know.
+
+
+TODO: 
+  Restore Bank files to original location
