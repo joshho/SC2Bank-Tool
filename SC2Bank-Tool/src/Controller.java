@@ -40,7 +40,7 @@ public class Controller{
 
 	class RestoreFileListener implements ActionListener {
 		public void actionPerformed(ActionEvent ae) {
-			view.showError("Not ready yet, you can follow us here: https://github.com/joshho/SC2Bank-Backup");
+			view.showError("Not ready yet, you can follow us here: https://github.com/joshho/SC2Bank-Tool");
 			int i = 0;
 			if(i == 0)
 				return;
